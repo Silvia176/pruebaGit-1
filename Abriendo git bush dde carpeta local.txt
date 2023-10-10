@@ -1,0 +1,1 @@
+Prueba abriendo git bush desde la carpeta local
